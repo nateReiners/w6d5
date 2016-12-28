@@ -3,8 +3,8 @@ import React from 'react';
 
 const tabs = [
   {title: 'one', content: 'I am the first'},
-  {title: 'two', content: 'I am the second'},
-  {title: 'three', content: 'react is cool!' }
+  {title: 'two', content: 'I am the second'}, 
+  {title: 'three', content: 'I am the third' }
 ];
 
 const Main = () => (
